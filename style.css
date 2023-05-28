@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    background-color: #EFDEDA;
+    color: #29030D;
+    text-align: center;
+}
+h1{
+    color: #8B030D;
+    background-color:#D79290 ;
+}
+a{
+    color: #FF0400;
+    background-color: #FFABA7;
+}
+img{
+    border: 5px double #8B030D;
+}
